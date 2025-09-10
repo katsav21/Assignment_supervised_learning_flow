@@ -49,7 +49,7 @@ This repository implements a complete supervised learning pipeline to **classify
 ## Project Structure
 ```
 .
-├── Assignment_supervised_learning_flow (3).ipynb   # Main notebook
+├── Assignment_supervised_learning_flow.ipynb   # Main notebook
 ├── assignment_ml_flow_instructions_short.pdf       # Assignment instructions
 ├── README.md                                       # This file
 └── data/
