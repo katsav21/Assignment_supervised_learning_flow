@@ -1,6 +1,6 @@
 # Supervised Learning Flow — Breast Cancer Diagnosis (WDBC)
 
-> **TL;DR:** Best pipeline = **StandardScaler + LogisticRegression (liblinear, C=10)**.  
+> **TL;DR:** Best pipeline = **StandardScaler + LogisticRegression (liblinear, C=10)**.   
 > **5-Fold CV F1 (Malignant): 0.9838 · Test F1 (Malignant): 0.9677**
 
 <p align="center">
