@@ -124,7 +124,5 @@ jupyter notebook "Assignment_supervised_learning_flow (3).ipynb"
 - ✅ **Part 5:** Predict full test set; first 5 predictions; F1(pos=1); diagnostics & plots
 
 ## Authors
-- _FirstName LastInitial (####)_, _FirstName LastInitial (####)_
+- Yair.K  5911, Maya.S 7637
 
-## License
-Academic use only — part of a course assignment.
